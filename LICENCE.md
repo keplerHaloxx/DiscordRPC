@@ -1,1 +1,2 @@
-[# Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# Licence
+https://creativecommons.org/licenses/by-nc-sa/4.0/
